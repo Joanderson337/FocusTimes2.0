@@ -16,13 +16,6 @@ import {
   btnFirepit
 } from './elements.js'
 
-// import {
-//   volumeNature,
-//   volumeRain,
-//   volumeStore,
-//   volumeFirepit
-// } from './sounds.js'
-
 import Sound from './sounds.js'
 import Timer from './timer.js'
 
