@@ -26,7 +26,7 @@ export default function Timer() {
 
   function resetTimer() {
     pause()
-    minutes = 25
+    minutes = 0
     seconds = 0
     spanSeconds.textContent = seconds.toString().padStart(2, '0')
     spanMinutes.textContent = minutes.toString().padStart(2, '0')
