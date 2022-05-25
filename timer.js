@@ -2,7 +2,7 @@ import { spanMinutes, spanSeconds } from './elements.js'
 import { togglePlayPauseBtn } from './script.js'
 
 export default function Timer() {
-  let minutes = 25
+  let minutes = 0
   let seconds = 0
   let countdownTimeout
 
